@@ -1,6 +1,0 @@
-framework module Pods_RequestInterceptorAlamofire {
-  umbrella header "Pods-RequestInterceptorAlamofire-umbrella.h"
-
-  export *
-  module * { export * }
-}
